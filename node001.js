@@ -1,0 +1,1 @@
+console.log(eval('a=2'))
